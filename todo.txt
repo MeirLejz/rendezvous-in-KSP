@@ -1,0 +1,18 @@
+correct cw guidance so end point is determined
+could not end last circ node
+go over everything that is hardcoded
+
+nodes:
+    still warping before orientating
+phasing
+    problem with circularization burn? 
+    problem if phasing calculations not based on target orbit
+    r_bar distance at the end of phasing - the bigger the less precise 
+docking
+    making sure target points in right direction
+    targetting the docking port
+    controlling from docking port?
+
+Future versions:
+1. implement discrete pulse controlling
+2. implement mission file following usual mission description protocol
